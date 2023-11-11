@@ -19,13 +19,14 @@
 ## (also available under the youtube video description )
 <pre>
 
-cloth simulation  0:06
-3D simulation 0:06
-3D camera navigation 0:14
-High-quality Rendering 0:26
-Self collision: 0:40
+Two arms skeleton  0:10
+User interaction   0:15
+3D Rendering 0:31
+Two arms skeleton explaination  1:08
+Moving IK    1:22
+Joints limit 1:56
 
-SPH simulation 1:14
+
 </pre>
 
 
