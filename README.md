@@ -39,4 +39,8 @@ Joints limit 1:56
 
 
 ## Brief write-up explaining difficulties you encountered
+   Implementing two arms shareing one segment is a work requires patience and careness: 
+   conflict when updating two arms trying to reach the same endpoint may happen, so I only decide
+   to allow user to control one arm. 
 
+   For a resonable simulation (or looks resonable), I need to tune the angle limits carefully.
