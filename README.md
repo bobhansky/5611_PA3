@@ -3,11 +3,12 @@
  
 
 ### control the simulation:
-   Cloth simulation:   wsad to navigate camera, arrow keys to set the view direction
+   arrow keys: move the root of the skeleton,
+   c: switch the arm being controlled.
 
 
 # demo image:
-![alt text](https://github.com/bobhansky/csci5611pj2/blob/main/showcase_img.png)
+![alt text](https://github.com/bobhansky/5611_PA3/blob/main/show.png)
 
 ### demo video:
 
@@ -31,11 +32,10 @@ SPH simulation 1:14
 
 ## • List of the tools/library you used && All code for your project with a clear indication of what code you wrote
      Vec2.pde is provided by Dr Stephen J Guy.
-     Camera.pde is by Liam Tyler
+
      
      All other files are written by me.
 
 
 ## Brief write-up explaining difficulties you encountered
-     in SPH simulation, the simulating speed is too slow, I set gravity to 1000 and adjust substeps to make it better (but still not realistic)
-     Also, the fluid nodes will flicker.
+
